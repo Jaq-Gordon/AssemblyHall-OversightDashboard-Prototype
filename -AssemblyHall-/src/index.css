@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap');
+@import 'tailwindcss';
+
+:root {
+  --gold: #C9A84C;
+  --gold-light: #E8D49A;
+  --gold-muted: #F0E6C4;
+  --sidebar-bg: #1A1A18;
+  --sidebar-hover: #2A2A26;
+  --sidebar-active: #2F2B1E;
+  --bg: #F9F8F4;
+  --card: #FFFFFF;
+  --border: #E2D9C4;
+  --text: #1C1B18;
+  --text-muted: #7A7060;
+  --green: #3D7A55;
+  --red: #B94040;
+  --green-light: #EAF4EE;
+  --red-light: #FAEAEA;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  margin: 0;
+}
+
+h1, h2, h3 {
+  font-family: 'DM Serif Display', serif;
+}
+
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--gold-light); border-radius: 2px; }
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
