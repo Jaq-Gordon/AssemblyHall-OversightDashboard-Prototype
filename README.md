@@ -1,8 +1,8 @@
 ## Assembly Hall Admin Console
 
-**An internal data visualization tool designed to support data-driven decision making around volunteer coverage and maintenance needs.**
+**An internal data visualization tool designed to support data-driven decision making around volunteer coverage and maintenance needs. To view the app, enter any credentials for username and password**
 
-[View the Assembly Hall Prototype →](https://www.figma.com/make/MgNuLQcCKMgFxppx6cQz3b/-AssemblyHall-?t=3iss9Sn79gKJEk9e-1)
+[View the Assembly Hall Prototype →](https://stroke-quartz-93237691.figma.site)
 
 The dashboard brings volunteer availability, crew coverage, and historical trends into one place, allowing administrators to explore questions such as:
 
