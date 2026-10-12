@@ -29,7 +29,7 @@ The goal is not to make these decisions automatically, but to provide the inform
 
 I began by sketching the different views by hand, focusing on how an administrator would move from a high-level overview into more detailed information.
 
-The interface was then developed into an interactive administrative experience centered around:
+The interface was then developed into an interactive administrative experience using AI driven development, centered around:
 
 **Overview → Explore → Investigate → Understand**
 
